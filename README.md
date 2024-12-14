@@ -1,12 +1,11 @@
 # To-Do List API (Gin Gonic)
-A simple CRUD API built with Golang and Gin Gonic.
+Ini adalah API To-Do List yang simpel banget, dibangun pakai **Golang** dan **Gin Gonic**. Cocok buat yang baru belajar atau pengen explore fitur CRUD
 
-## Features
-- Create, Read, Update, and Delete (CRUD) tasks.
-- In-memory storage with unique task IDs.
+## Fitur
+- Bisa **Create**, **Read**, **Update**, dan **Delete** (CRUD) task.
+- Penyimpanan masih pakai **in-memory** dengan ID unik buat tiap task (biar rapi).
 
-## How to Run
-1. Clone this repository.
-2. Run the server:
+## Cara Menjalankan
+1. Clone repository ini ke komputer kamu:
    ```bash
-   go run main.go
+   git clone https://github.com/username/repo-name.git
