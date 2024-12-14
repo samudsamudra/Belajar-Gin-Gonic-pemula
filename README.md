@@ -8,4 +8,4 @@ Ini adalah API To-Do List yang simpel banget, dibangun pakai **Golang** dan **Gi
 ## Cara Menjalankan
 1. Clone repository ini ke komputer kamu:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/samudsamudra/Belajar-Gin-Gonic-pemula
